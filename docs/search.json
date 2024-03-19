@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my Website",
+    "section": "",
+    "text": "Introduction:\nMy name is Lexi and I grew up on the West Coast of Canada specifically Victoria BC. I chose to attend post-secondary education at the University of Toronto partly because my mother attended the University however the main contributor however was representing the University playing Field Hockey. After completing my bachelors of Science, I will be taking ten months off to work explore New Zealand’s North Island before doing a masters at Univerity of Otago on the South Island. I am still deciding on a masters program, however at the moment I am most interested in the Physiology Program to become a registered physio to follow my passion of sports and helping people.\nSee “About” page for further information regarding my education, skills, projects, experience, interests and hobbies.\nSee “CV” for my personal and up to date resume.\nContact information:\nEmail: knight.alexandra8@gmail.com\nLinkedIn: Lexi Knight\nGitHub: LexiKnight\nFacebook: Lexi Knight\nInstagram: FH_lex"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Education:\nI am a fourth year student at the University of Toronto. I am majoring in Human Biology, minoring in statistics and immunology as well as completing in certificate in Management. I am and have been a member of the Varisity Blues Field Hockey team for the past four years. I am a member of registered study groups for numerous courses.\nSkills:\nBeing a student athlete with a busy and high demand schedule, I have learnt to has master my time management skills. I have always been a very organized individual, making great use of spreadsheets, lists and careful planning to ensure I complete all my tasks in an orderly fashion. My minor in stats has prompted my learning of coding in both python and R. Additionally, I am fluent in french, graduating high school with dual diplomas. Throughout my roles in high school as well as volunteering coaching young children, I have become a great leader with strong communication. I can confidently take charge in groups, delegate tasks and ensure each group member is included.\nProjects:\nOne of the projects I am working on right now is photography related. I am working on printing photographs I have taken over the last five years. I want to share and sell my art. Photography is not my main area of focus but I do wish to take photographs at weddings, for family photos as well as other events as a side job.\nExperience:\nFor the past two summers I have worked at the Cancer Clinic back home. I work full time as a Clerk with different duties. I work with patients undergoing both chemotherapy and radition at the same time. There are usually between 30 to 40 patients but my coworkers and I are in charge of booking all their appointments, prepping charts, writing appointment cards, call patients about upcoming tests, doing dental checks and interact with the patient one on one. We are the communicators with the doctors, pharmacists, nurses as well as other members of their team. It is a lot of work to maintain organization, keep everyone up to date, deliver the chart to the correct place at the correct time as well as managing their schedule. Its hard work but I love it. The patients are always so appreciative and I always leave work with a big smile on my face. Something about making their day slightlyw easier makes me feel amazing.\nInterests and Hobbies:\nMy interests include literally anything outside. I adore nature whether its walking through the park, play road hockey with the family, hiking up a mountain, biking through town, kayaking in the ocean, sailing through the gulf islands, camping in the forest, playing tennis at the park, go skating at the rec center, playing touch rugby at the beach, running in the rain and swimming lanes at the local pool. Aside from sports, I love to read historial fiction, watch rom coms, bake muffins, drink bubble tea, stargaze and eat ice cream."
+  },
+  {
+    "objectID": "index.html#i-am-a-student-at-the-univeristy-of-toronto-minoring-in-statistics.",
+    "href": "index.html#i-am-a-student-at-the-univeristy-of-toronto-minoring-in-statistics.",
+    "title": "Welcome to my Website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
